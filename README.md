@@ -25,6 +25,10 @@ Code:
 2. timelines.nb 
 3. global_network_measures.nb
 4. graph_similarity_measures.nb
-6. export_networks.nb
+5. individual_centrality.nb
+6. offices_vs_centrality.nb
+7. export_networks.nb
 
 All code is available as Wolfram Mathematica (v12.1.1.0) notebooks. It allows to reproduce analyses and figures presented in the paper.
+
+Networks: files listing nodes and edges to import into Gephi; generated from '7. export_networks.nb'.
